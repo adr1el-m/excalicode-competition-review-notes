@@ -37,21 +37,21 @@ QUICK SORT - Has a <span style="color:rgb(255, 174, 0)">PIVOT</span> and <span s
 		Recursively sorts the sub-arrays.
 
 - <span style="color:rgb(255, 174, 0)">INSERTION SORT</span> is used to sort the sub-arrays
-![](attachment/56d4b5e8cbca6bd95914c94035dfd4ab.png)
 
-![Quick Sort](/images/Quick_Sort.png)
+![Quick Sort](/images/QuickSort.png)
 
 # <span style="color:rgb(0, 168, 73)">Bubble Sort </span>
 - Two for loops, one nested in the other
 - Multiple swap per pass
-![](attachment/af4f6fc0685921537f5fdb52341a99b1.png)
+
+![Bubble Sort](/images/BubbleSort.png)
 
 # <span style="color:rgb(0, 168, 73)"><span style="color:rgb(0, 168, 73)">Selection Sort</span></span>
 - as the arrows progress, it finds the smallest number and swaps is
 - Iterative Algorithm
 - one swap per pass
 
-![](attachment/5223c1e230ca0e82cfc836ae42693504.png)
+![Selection Sort](/images/SelectionSort.png)
 
 # <span style="color:rgb(0, 168, 73)">Merge Sort</span>
 
@@ -59,7 +59,8 @@ QUICK SORT - Has a <span style="color:rgb(255, 174, 0)">PIVOT</span> and <span s
 - Can Sort large scale of data
 
 <span style="color:rgb(0, 168, 73)">MERGE</span> - Merging data of two different orders in a specific order may ascend or descend. We use merge sort to merge sort data.
-![](attachment/529219fd19019b9797736af88a294fd9.png)
+
+![Merge Sort](/images/MergeSort.png)
 
 # <span style="color:rgb(0, 168, 73)">Insertion Sort</span>
 
@@ -71,12 +72,12 @@ QUICK SORT - Has a <span style="color:rgb(255, 174, 0)">PIVOT</span> and <span s
 
 Example of "<span style="color:rgb(0, 168, 73)">DYNAMIC PROGRAMMING</span>" - Fibonacci sequence calculation, Knapsack problem.
 
-![](attachment/d242ad233f21c366e4dd1d6486500a30.png)
+![Array and Linked List Sort](/images/ArrayLinkedList.png)
 
 - **Binary Search**:
-![](attachment/b642fbee55c760ac7b41b1614d5a77fe.png)
+![Binary Search](/images/BinarySearch.png)
 - **Linear Search**: 
-![](attachment/00663f41ab7394a741a7728059e8738b.png)
+![Linear Search](/images/LinearSearch.png)
 
 <span style="color:rgb(0, 168, 73)">LINEAR SEARCH</span> - also known as SEQUENTIAL SEARCH
 
@@ -90,15 +91,15 @@ Example of "<span style="color:rgb(0, 168, 73)">DYNAMIC PROGRAMMING</span>" - Fi
 <span style="color:rgb(0, 168, 73)">ONE-DIMENSIONAL ARRAY</span> - Where data is arrayed in a line.
 
 
- ![](attachment/319c6cc1a1cc2a84f5bff745d881714b.png)
+![Linear Search](/images/LinearSearch.png)
  
  # **Singly Linked List**
 - <span style="color:rgb(255, 174, 0)">Simple Linked List or Singly Linked List</span> – navigation in the list is forward only. In this type of linked list, every node stores address or reference of next node in list and the last node has next address or reference as NULL
-![](attachment/4c5df88d94937cf495734ca43a530653.png)
+![Singly Linked List](/images/SinglyLinkedList.png)
 
 # **Doubly Linked List**
 
-![](attachment/9f16d7887b66bdeb794b9563549b0185.png)
+![Doubly Linked List](/images/DoublyLinkedList.png)
 
  <span style="color:rgb(0, 168, 73)">DOUBLY LINKED LIST</span>– Navigation through the list can be both ways – forward and backward. There are two references associated with each node, One of the reference points to the next node and one to the previous node. 
 
@@ -106,7 +107,7 @@ Example of "<span style="color:rgb(0, 168, 73)">DYNAMIC PROGRAMMING</span>" - Fi
 
 - In a Circular linked list linked list the last item contains the link of the 1st element ad next and the 1st element has a link to the last element as previous
 - <span style="color:rgb(255, 174, 0)">CIRCULAR LINKED LIST</span> – The last item (TAIL) in the list contains a link to the first element (HEAD) as next and the first element has a link to the last element as previous. Circular linked list is a linked list where all nodes are connected to form a circle. There is no NULL at the end. A circular linked list can be a singly circular linked list or doubly circular linked list. Advantage of this data structure is that any node can be made as starting node. This is useful in implementation of circular queue in linked list.
-![](attachment/5d334f1c0f9f579ef59372278ab1bf60.png)
+![Circular Linked List](/images/CircularLinkedList.png)
 ____________________________________________________________________
 1. The <span style="color:rgb(255, 174, 0)">"HEAD"</span> points to the first node in a linked list.
 2. A data structure that points to an object of the same type as itself is known as a <span style="color:rgb(255, 174, 0)">"SELF REFERENTIAL"</span> data structure.
@@ -139,4 +140,4 @@ TRAVERSE -  This operation traverses through the elements of an array meaning we
  **NEXT POINTER** -A REFERENCE to the next node in the sequence.
 
 
-![](attachment/3cb245bb4afec60aeaeb1de6eef0ad54.png)
+![Winner Winner Chicken Dinner](/images/WinnerWinnerChickenDinner.png)
