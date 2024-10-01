@@ -39,7 +39,7 @@ QUICK SORT - Has a <span style="color:rgb(255, 174, 0)">PIVOT</span> and <span s
 - <span style="color:rgb(255, 174, 0)">INSERTION SORT</span> is used to sort the sub-arrays
 ![](attachment/56d4b5e8cbca6bd95914c94035dfd4ab.png)
 
-![Quick Sort](images/Quick Sort.png)
+![Quick Sort](/images/Quick Sort.png)
 
 # <span style="color:rgb(0, 168, 73)">Bubble Sort </span>
 - Two for loops, one nested in the other
