@@ -91,7 +91,6 @@ Example of "<span style="color:rgb(0, 168, 73)">DYNAMIC PROGRAMMING</span>" - Fi
 <span style="color:rgb(0, 168, 73)">ONE-DIMENSIONAL ARRAY</span> - Where data is arrayed in a line.
 
 
-![Linear Search](/images/LinearSearch.png)
  
  # **Singly Linked List**
 - <span style="color:rgb(255, 174, 0)">Simple Linked List or Singly Linked List</span> – navigation in the list is forward only. In this type of linked list, every node stores address or reference of next node in list and the last node has next address or reference as NULL
